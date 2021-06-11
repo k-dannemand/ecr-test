@@ -9,5 +9,6 @@ variable "scan_on_push" {
 
 variable "iam_arn" {
   type = string
+  default = "arn:aws:iam::986468747188:user/github-actions"
 }
 

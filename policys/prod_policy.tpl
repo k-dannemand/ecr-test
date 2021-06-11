@@ -6,7 +6,6 @@
             "Effect": "Allow",
             "Principal": {
                 "AWS": [
-                    "arn:aws:iam::986468747188:user/kd",
                     "${iam_arn}"
                 ]
             },
