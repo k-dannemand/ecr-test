@@ -2,7 +2,6 @@
     "Version": "2008-10-17",
     "Statement": [
         {
-            "Sid": "new policy",
             "Effect": "Allow",
             "Principal": {
                 "AWS": [
